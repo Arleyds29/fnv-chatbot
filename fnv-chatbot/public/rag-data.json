@@ -1,0 +1,486 @@
+[
+  {
+    "q": "¿Qué es Fallout: New Vegas?",
+    "a": "Fallout: New Vegas es un videojuego de rol postapocalíptico desarrollado por Obsidian Entertainment y publicado por Bethesda Softworks en 2010. Está ambientado en el año 2281 en el Yermo de Mojave, una región desértica que abarca partes del estado de Nevada, California, Utah y Arizona en Estados Unidos. El jugador controla a un personaje conocido como el Mensajero (o \"The Courier\"), quien es dado por muerto tras un disparo en la cabeza y debe descubrir quién intentó matarlo mientras se ve envuelto en una guerra de poder por el control de la Presa Hoover y la ciudad de New Vegas."
+  },
+  {
+    "q": "¿En qué año está ambientado Fallout New Vegas?",
+    "a": "Fallout New Vegas está ambientado en el año 2281, aproximadamente 204 años después de la Gran Guerra Nuclear que destruyó la civilización el 23 de octubre de 2077."
+  },
+  {
+    "q": "¿Qué es el Yermo de Mojave?",
+    "a": "El Yermo de Mojave es la región postapocalíptica donde transcurre Fallout New Vegas. Corresponde al desierto de Mojave en el mundo real, abarcando el sur de Nevada, partes del sureste de California y zonas limítrofes de Utah y Arizona. A diferencia de otras zonas del yermo, Mojave conserva una infraestructura relativamente intacta gracias a la intervención de Mr. House, quien desvió la mayoría de los misiles nucleares lanzados contra la región durante la Gran Guerra."
+  },
+  {
+    "q": "¿Quién es el Mensajero (The Courier)?",
+    "a": "El Mensajero es el protagonista jugable de Fallout New Vegas. Es un empleado de la empresa Mojave Express encargado de entregar el Chip Platino al Casino Lucky 38 de New Vegas. Antes de completar su misión, es emboscado por Benny y sus mercenarios Khans en la localidad de Goodsprings, donde recibe dos disparos en la cabeza y es enterrado vivo. Milagrosamente sobrevive gracias a los esfuerzos del Doctor Mitchell y el robot Victor, y desde ese punto comienza su búsqueda de venganza y su rol en el destino del Yermo de Mojave."
+  },
+  {
+    "q": "¿Qué es el Chip Platino?",
+    "a": "El Chip Platino es un dispositivo de almacenamiento de datos de alta tecnología que el Mensajero debía entregar al Casino Lucky 38. Contiene actualizaciones críticas de software para los Securitrons de Mr. House, permitiéndoles ser armados con armamento militar de grado superior. Su posesión es codiciada por Mr. House, el NCR, la Legión de César y Benny, siendo el detonante de los eventos principales del juego."
+  },
+  {
+    "q": "¿Cuáles son las facciones principales de Fallout New Vegas?",
+    "a": "Las cuatro facciones principales que compiten por el control de la Presa Hoover y New Vegas son: La República de Nueva California (NCR), la Legión de César, Mr. House y la opción independiente (Yes Man). Además existen numerosas facciones secundarias como los Brotherhood of Steel, los Boomers, la Great Khans, los Followers of the Apocalypse, los Powder Gangers, los Fiends, entre otros."
+  },
+  {
+    "q": "¿Qué es la República de Nueva California (NCR)?",
+    "a": "La República de Nueva California (New California Republic o NCR) es una federación democrática postapocalíptica fundada en 2189 en lo que fue California. Es la facción más grande y organizada del Yermo de Mojave, con un ejército, gobierno electo, moneda propia y leyes establecidas. En el año 2281 está comandada por la Presidenta Kimball y sus fuerzas militares en el Mojave están bajo el mando del General Lee Oliver. El NCR busca anexar New Vegas y la Presa Hoover para asegurar el suministro eléctrico de sus territorios, aunque enfrenta problemas internos de corrupción, burocracia y sobreextensión militar."
+  },
+  {
+    "q": "¿Qué es la Legión de César?",
+    "a": "La Legión de César es una facción militarista y esclavista modelada a partir de la antigua Roma, fundada por Edward Sallow (conocido como César) y Joshua Graham alrededor del año 2247. Su estructura social es estrictamente patriarcal, con una jerarquía militar rígida. Esclaviza a tribus enteras y las asimila a su estructura. En el momento del juego, la Legión acaba de cruzar el Río Colorado y se prepara para atacar la Presa Hoover en la Batalla de Fortification Hill (conocida como Hoover Dam). Su comandante de campo es el Legate Lanius, mientras César dirige desde su campamento en Fortification Hill."
+  },
+  {
+    "q": "¿Quién es Mr. House?",
+    "a": "Robert Edwin House, conocido como Mr. House, es el fundador y CEO de la corporación RobCo Industries, uno de los hombres más ricos e influyentes del mundo prerradiación. Anticipando la Gran Guerra, construyó un refugio de lujo en el sótano del Casino Lucky 38 en New Vegas y se conectó a un sistema de soporte vital que lo ha mantenido vivo más de 200 años. Controla la ciudad de New Vegas a través de una red de Securitrons (robots policías) y tres familias del Strip (Chairmen, White Glove Society y Omertas). Su objetivo es establecer una civilización tecnocrática dirigida por él mismo para superar a cualquier sociedad anterior."
+  },
+  {
+    "q": "¿Qué es Yes Man?",
+    "a": "Yes Man es un Securitron reprogramado por Benny para ayudarlo a apoderarse de New Vegas de forma independiente. Después de los eventos iniciales del juego, el Mensajero puede encontrarlo en el Casino Tops y reclutarlo para su propia causa. Yes Man está programado para obedecer cualquier orden de quien le hable, lo que lo hace el aliado perfecto para la ruta independiente del juego. Su nombre refleja precisamente esta característica: nunca puede negarse a ayudar."
+  },
+  {
+    "q": "¿Qué son los Boomers?",
+    "a": "Los Boomers son una tribu de supervivientes que viven en la Base Aérea Nellis, al noreste de New Vegas. Descienden de habitantes del Vault 34 que se separaron por disputas internas. Son extremadamente xenófobos y violentos con los forasteros, atacando a cualquiera que se acerque con un arsenal masivo de artillería y explosivos. Internamente, son una sociedad bien organizada con roles definidos. Su activo más valioso es un bombardero B-29 hundido en el Lago Mead, que algunos de sus miembros sueñan con restaurar."
+  },
+  {
+    "q": "¿Quiénes son los Followers of the Apocalypse?",
+    "a": "Los Followers of the Apocalypse son una organización humanitaria fundada en las ruinas de Los Ángeles. Su misión es preservar el conocimiento, proporcionar atención médica y ayudar a reconstruir la civilización de manera igualitaria. En New Vegas, operan principalmente desde el Old Mormon Fort en Freeside y tienen presencia en el Strip. Son aliados naturales del NCR pero mantienen neutralidad política. Figuras clave en el juego incluyen a Julie Farkas (directora en Freeside) y a la Dra. Angela Williams."
+  },
+  {
+    "q": "¿Qué son los Great Khans?",
+    "a": "Los Great Khans son una banda de raiders/guerreros con una cultura tribal fuerte. Son los remanentes de los Khans originales de California, quienes sufrieron masacres repetidas a manos del NCR. En el tiempo del juego viven en Red Rock Canyon y están involucrados en la producción y distribución de drogas para la Legión de César. Su líder es Papa Khan. Tienen un pasado turbulento con el NCR y albergan un profundo resentimiento hacia ellos."
+  },
+  {
+    "q": "¿Quién es Benny?",
+    "a": "Benny es el jefe de los Chairmen y presidente del Casino Tops en el Strip de New Vegas. Es un carismático y ambicioso estafador que interceptó al Mensajero, le disparó dos veces en la cabeza y robó el Chip Platino con el plan de usarlo para tomar el control de New Vegas de forma independiente, eliminando a Mr. House con la ayuda de Yes Man. Tiene raíces en la tribu Mojave Enclave, renombrada como \"Chairmen\" por Mr. House. Su traición al Mensajero es el catalizador principal de la trama del juego. Tiene una relación con una robot compañera llamada Swank. Su destino depende de las decisiones del jugador."
+  },
+  {
+    "q": "¿Quién es el Legate Lanius?",
+    "a": "Lanius, conocido como el \"Monster of the East\", es el comandante de campo de la Legión de César y uno de sus guerreros más temidos. Lleva una máscara de hierro que cubre su rostro desfigurado. Es brutalmente eficiente en combate y en la gestión de tropas a través del miedo y la violencia. Antes de unirse a la Legión fue un guerrero del Tribe of Dead Horses que casi exterminó a su propia tribu antes de ser derrotado por César. Se convierte en el jefe final del juego si el jugador apoya a la Legión o en el último obstáculo en las rutas del NCR e independiente."
+  },
+  {
+    "q": "¿Quién es Craig Boone?",
+    "a": "Craig Boone es un compañero disponible en el juego, acantonado en Novac como francotirador del NCR. Tiene un pasado oscuro: vendió a su esposa embarazada, Carla, a la Legión de César para evitar que fuera capturada viva. Luego la mató con un disparo antes de que pudiera ser esclavizada. Carga con una profunda culpa y odio hacia la Legión. Es uno de los compañeros más competentes en combate gracias a sus habilidades de francotirador. Su quest personal implica descubrir quién delató a los residentes de Novac a la Legión."
+  },
+  {
+    "q": "¿Quién es Veronica Santangelo?",
+    "a": "Veronica es una exploradora de la Brotherhood of Steel que puede unirse como compañera al Mensajero. Es inteligente, sarcástica y tiene un profundo conflicto interno con las políticas aislacionistas de la Brotherhood. Está enamorada de Christine (quien aparece en el DLC Dead Money). Su quest personal, \"I Could Make You Care\", gira en torno a su intento de convencer a la Brotherhood de adaptarse o enfrentarse a su extinción. Usa un puño de poder como arma principal."
+  },
+  {
+    "q": "¿Quién es ED-E?",
+    "a": "ED-E (Eyebot Duraframe Subject E) es un compañero robot del tipo Eyebot, pequeño y volador. Fue creado originalmente por un científico del Enclave llamado Whitfield para investigar el estado del mundo postguerra. Tiene grabaciones de datos del Enclave en su memoria que son buscadas por el Enclave Remnant. Su quest personal implica reparar sus componentes y descubrir el misterio de sus orígenes. Es muy útil para detectar enemigos a distancia y puede ser mejorado con armamento adicional."
+  },
+  {
+    "q": "¿Quién es Arcade Gannon?",
+    "a": "Arcade Israel Gannon es un médico y miembro de los Followers of the Apocalypse que puede convertirse en compañero del Mensajero. Es homosexual, intelectual y cínico respecto al futuro del yermo. Tiene un secreto importante: es hijo de un oficial del Enclave y creció entre los remanentes de esa organización. Su quest personal, \"For Auld Lang Syne\", implica reunir a los Enclave Remnants para apoyar en la Batalla de la Presa Hoover."
+  },
+  {
+    "q": "¿Quién es Raul Tejada?",
+    "a": "Raul Alfonso Tejada es un ghoul vaquero de más de 200 años de edad que puede convertirse en compañero. Es el mecánico cautivo de la Montaña Black. Antes de convertirse en ghoul era un pistolero legendario en México. Con el tiempo perdió su ferocidad y motivación. Su quest personal, \"Old School Ghoul\", implica reencontrar su propósito como pistolero o aceptar su papel de mecánico pacífico."
+  },
+  {
+    "q": "¿Quién es Joshua Graham?",
+    "a": "Joshua Graham, también conocido como el \"Burned Man\" o \"Malpais Legate\", es un personaje que aparece en el DLC Honest Hearts. Fue cofundador de la Legión de César junto a Edward Sallow y sirvió como su primer Legate. Tras la derrota en la Primera Batalla de la Presa Hoover, César lo ejecutó cubriéndolo en pez y prendiéndole fuego, arrojándolo al Gran Cañón. Sobrevivió milagrosamente y se convirtió en un líder mormón y protector de la tribu New Canaanites y los Dead Horses. Es un personaje profundamente religioso que lucha con la tensión entre su violencia pasada y su fe presente."
+  },
+  {
+    "q": "¿Quién es el Doctor Mitchell?",
+    "a": "El Doctor Mitchell es el médico de Goodsprings que salva la vida del Mensajero al inicio del juego. Es el primer NPC con quien el jugador interactúa extensamente y sirve como tutorial de las mecánicas del juego (S.P.E.C.I.A.L., habilidades, rasgos). Es un hombre amable, algo solitario, que vive en las afueras de Goodsprings con sus recuerdos y pertenencias de familia."
+  },
+  {
+    "q": "¿Quién es el Orador (The King)?",
+    "a": "The King (cuyo nombre real se desconoce) es el líder de la pandilla \"The Kings\" en Freeside, el vecindario más pobre de las afueras del Strip. Es un fanático de Elvis Presley que modela toda su identidad y la de su pandilla en el legendario cantante. Dirige el King's School of Impersonation. A pesar de su apariencia excéntrica, es un líder justo y respetado que genuinamente se preocupa por los residentes de Freeside."
+  },
+  {
+    "q": "¿Qué es Goodsprings?",
+    "a": "Goodsprings es un pequeño asentamiento en el sur del Yermo de Mojave, basado en la ciudad real de Goodsprings, Nevada. Es el punto de inicio del juego, donde el Doctor Mitchell salva al Mensajero. Tiene una tienda general administrada por Chet, un saloon llamado Prospector Saloon atendido por Trudy, y una pequeña comunidad de residentes. La quest inicial \"Ain't That a Kick in the Head\" comienza aquí, y el jugador debe decidir si ayudar a los habitantes contra los Powder Gangers o no intervenir."
+  },
+  {
+    "q": "¿Qué es New Vegas Strip?",
+    "a": "El New Vegas Strip es el equivalente postapocalíptico de Las Vegas Boulevard. Es la zona más próspera y lujosa del Yermo de Mojave, administrada por Mr. House a través de sus Securitrons y las Tres Familias. Alberga cuatro casinos principales: el Lucky 38 (residencia de Mr. House), el Tops (controlado por los Chairmen, de Benny), el Ultra-Luxe (controlado por la White Glove Society) y el Gomorrah (controlado por los Omertas). Tiene una economía próspera basada en el juego, el entretenimiento y los servicios."
+  },
+  {
+    "q": "¿Qué es la Presa Hoover?",
+    "a": "La Presa Hoover (Hoover Dam) es la instalación más estratégicamente importante del Yermo de Mojave. Genera electricidad que alimenta New Vegas y gran parte de la región. Está actualmente bajo control del NCR, que la defiende contra los intentos de conquista de la Legión de César. Es el escenario del clímax del juego, donde se libra la Segunda Batalla de la Presa Hoover, cuyo resultado determina el destino de la región según las decisiones del jugador."
+  },
+  {
+    "q": "¿Qué es Freeside?",
+    "a": "Freeside es el vecindario más grande y más pobre en los alrededores del Strip de New Vegas. Está habitado principalmente por refugiados del NCR, residentes locales empobrecidos y varias pandillas. Los Kings mantienen cierto orden en la zona. Los Followers of the Apocalypse operan desde el Old Mormon Fort aquí. Hay tensiones constantes entre los refugiados del NCR y los residentes locales. Para entrar al Strip desde Freeside se necesita pagar 2,000 caps o tener una identificación del NCR."
+  },
+  {
+    "q": "¿Qué es Boulder City?",
+    "a": "Boulder City es una ciudad en ruinas al este de New Vegas, famosa por ser el sitio de la Batalla de Boulder City durante la Primera Batalla de la Presa Hoover. El NCR utilizó tácticas de tierra quemada para evitar que la Legión tomara la ciudad. Actualmente es un memorial de guerra del NCR y está bajo cuarentena militar. También es el lugar de una misión donde el Mensajero debe negociar la liberación de soldados del NCR capturados por los Great Khans."
+  },
+  {
+    "q": "¿Qué es Novac?",
+    "a": "Novac es un pequeño asentamiento en la Ruta 95, nombrado por un letrero de motel dañado que originalmente decía \"No Vacancy\". Su característica más distintiva es una enorme estatua de dinosaurio (llamada \"Dinky the T-Rex\") desde cuya boca opera el francotirador Boone. Es un lugar tranquilo con una pequeña comunidad de residentes. La quest \"Come Fly with Me\" tiene lugar en la cercana Base de Cohetes REPCONN."
+  },
+  {
+    "q": "¿Qué es el Camp McCarran?",
+    "a": "Camp McCarran es la base militar principal del NCR en el Yermo de Mojave, ubicada en el antiguo Aeropuerto Internacional McCarran de Las Vegas. Es el cuartel general de las operaciones militares del NCR en la región, albergando a miles de soldados, instalaciones médicas, celdas de interrogación y una estación de trenes. El jugador puede completar varias misiones aquí, incluyendo la investigación de un espía dentro del campamento."
+  },
+  {
+    "q": "¿Qué es Jacobstown?",
+    "a": "Jacobstown es un refugio para Super Mutantes y Nightkin ubicado en las montañas al noroeste del mapa. Fue fundado por Marcus, un Super Mutante que también aparece en Fallout 2. Los Super Mutantes aquí buscan vivir en paz, pero muchos Nightkin sufren de esquizofrenia causada por el uso prolongado del Stealth Boy. La quest aquí involucra ayudar al Dr. Henry a desarrollar una cura para la afección de los Nightkin."
+  },
+  {
+    "q": "¿Qué es el sistema S.P.E.C.I.A.L. en Fallout New Vegas?",
+    "a": "S.P.E.C.I.A.L. es el sistema de atributos base del personaje en Fallout New Vegas. Cada letra representa un atributo: S (Strength/Fuerza), P (Perception/Percepción), E (Endurance/Resistencia), C (Charisma/Carisma), I (Intelligence/Inteligencia), A (Agility/Agilidad) y L (Luck/Suerte). Cada atributo va del 1 al 10 y afecta diferentes aspectos del juego, desde el daño en combate hasta las opciones de diálogo disponibles. Se establece al inicio del juego durante la secuencia con el Doctor Mitchell."
+  },
+  {
+    "q": "¿Qué es el V.A.T.S. en Fallout New Vegas?",
+    "a": "El V.A.T.S. (Vault-Tec Assisted Targeting System) es un sistema de combate que permite al jugador pausar la acción en tiempo real y apuntar a partes específicas del cuerpo de los enemigos. Cada acción en V.A.T.S. consume Puntos de Acción (AP). El sistema calcula el porcentaje de probabilidad de acertar en cada parte del cuerpo. Puede usarse para disparar a armas enemigas para desarmarlos, dañar piernas para ralentizarlos, o atacar la cabeza para causar más daño. En New Vegas se añadió la mecánica de \"guts\" que permite golpes especiales."
+  },
+  {
+    "q": "¿Qué son los Karma y Reputación en Fallout New Vegas?",
+    "a": "En Fallout New Vegas coexisten dos sistemas morales. El Karma es un indicador global de las acciones del jugador (buenas o malas) que afecta qué compañeros pueden unirse y algunos diálogos. La Reputación es un sistema por facción que mide qué tan bien o mal te ve cada grupo específico, desde \"Idolized\" (idolatrado) hasta \"Vilified\" (detestado). La reputación es más importante que el karma para determinar cómo reaccionan los NPCs. Puedes ser muy querido por el NCR y odiado por la Legión simultáneamente."
+  },
+  {
+    "q": "¿Qué son las Habilidades (Skills) en Fallout New Vegas?",
+    "a": "Las habilidades son estadísticas que definen la competencia del personaje en áreas específicas. Hay 13 habilidades: Barter (trueque), Energy Weapons (armas de energía), Explosives (explosivos), Guns (armas de fuego), Lockpick (ganzúa), Medicine (medicina), Melee Weapons (armas cuerpo a cuerpo), Repair (reparación), Science (ciencia), Sneak (sigilo), Speech (habla), Survival (supervivencia) y Unarmed (combate sin armas). Cada habilidad va del 0 al 100 y se incrementa al subir de nivel o usando libros de habilidad."
+  },
+  {
+    "q": "¿Qué son los Perks en Fallout New Vegas?",
+    "a": "Los Perks son habilidades especiales o bonificaciones que el jugador puede elegir al subir de nivel (cada 2 niveles). Hay docenas de perks disponibles con efectos muy variados: desde bonificaciones de daño con ciertos tipos de armas, hasta capacidades especiales como hackear terminales sin penalización o regenerar salud. Algunos perks tienen requisitos de atributos o habilidades. También existen perks negativos llamados \"Traits\" que se eligen al inicio del juego y ofrecen tanto ventajas como desventajas."
+  },
+  {
+    "q": "¿Qué son los Hardcore Mode en Fallout New Vegas?",
+    "a": "El Modo Hardcore (Hardcore Mode) es una opción de dificultad adicional exclusiva de New Vegas que añade mecánicas de supervivencia realistas. En este modo, el personaje necesita comer, beber y dormir regularmente para sobrevivir. La munición tiene peso. La medicina actúa gradualmente (los Stimpaks no curan al instante). Los compañeros pueden morir permanentemente. Los huesos rotos no se curan solo con Stimpaks. Completar el juego en Hardcore Mode otorga un logro/trofeo especial."
+  },
+  {
+    "q": "¿Qué son las Implantes en Fallout New Vegas?",
+    "a": "Los Implantes son mejoras cibernéticas que el jugador puede adquirir en el New Vegas Medical Clinic. Existen implantes que aumentan permanentemente los atributos S.P.E.C.I.A.L. (uno por cada atributo), un implante que regenera salud lentamente, uno que aumenta el DT (umbral de daño), y uno que añade veneno a los ataques cuerpo a cuerpo. El número de implantes que puedes instalar está limitado por tu atributo de Endurance."
+  },
+  {
+    "q": "¿Cómo empieza la historia de Fallout New Vegas?",
+    "a": "La historia comienza con el Mensajero siendo emboscado en la ciudad de Goodsprings por Benny y sus mercenarios Khans. Benny le dispara dos veces en la cabeza y lo entierra vivo en el cementerio local. El robot Victor presencia el enterramiento y llama al Doctor Mitchell, quien excava al Mensajero y lo trata en su clínica. Tras recuperarse, el Mensajero se propone encontrar a Benny, rastrear el Chip Platino y descubrir las razones detrás del ataque."
+  },
+  {
+    "q": "¿Cuál es la misión principal \"Ring-a-Ding-Ding\"?",
+    "a": "\"Ring-a-Ding-Ding\" es la quest principal que culmina en el confrontamiento del Mensajero con Benny en el Casino Tops del Strip. El jugador puede abordarla de múltiples formas: combate directo, usando la seducción para llevar a Benny a una habitación privada, o convenciendo a los Chairmen de entregarlo. El resultado puede ser matar a Benny, dejarlo escapar, o entregarlo a la Legión de César. Independientemente del resultado, el Chip Platino cambia de manos y el Mensajero obtiene acceso a Yes Man o a Mr. House."
+  },
+  {
+    "q": "¿Cuál es el final del NCR en Fallout New Vegas?",
+    "a": "En el final del NCR, el Mensajero ayuda a la República de Nueva California a ganar la Segunda Batalla de la Presa Hoover. El NCR derrota a la Legión de César, asegura la presa y expande su control sobre New Vegas y el Yermo de Mojave. Sin embargo, el narrador indica que el NCR enfrenta los mismos problemas de siempre: corrupción, burocracia y sobreextensión. New Vegas se convierte en otra ciudad del NCR, perdiendo parte de su carácter único. Es considerado el final \"más seguro\" pero no necesariamente el mejor."
+  },
+  {
+    "q": "¿Cuál es el final de la Legión de César?",
+    "a": "En el final de la Legión, el Mensajero ayuda a César y al Legate Lanius a conquistar la Presa Hoover y destruir al NCR. La Legión establece su dominio sobre el Yermo de Mojave. El narrador describe una región bajo dominio autoritario donde la criminalidad es casi inexistente pero la libertad individual tampoco existe. Las mujeres son reducidas a roles secundarios, los esclavos son comunes y cualquier disidencia es aplastada. Es el final más oscuro del juego."
+  },
+  {
+    "q": "¿Cuál es el final de Mr. House?",
+    "a": "En el final de Mr. House, el Mensajero ayuda al multimillonario tecnocrático a repeler tanto al NCR como a la Legión y establecer su control absoluto sobre New Vegas. Mr. House usa los Securitrons potenciados con el Chip Platino para dominar el campo de batalla. Su visión es construir una nueva civilización tecnológicamente avanzada dirigida por él. El narrador sugiere que New Vegas prospera bajo su control, pero que es una prosperidad definida por las prioridades de un solo hombre inmortal con agenda propia."
+  },
+  {
+    "q": "¿Cuál es el final independiente (Yes Man)?",
+    "a": "En el final independiente, el Mensajero usa a Yes Man para tomar control de los Securitrons y defender la Presa Hoover sin depender de ninguna facción mayor. Tanto el NCR como la Legión son rechazados. New Vegas se convierte en una ciudad-estado verdaderamente independiente. El narrador señala que el futuro es incierto pero lleno de posibilidades, dependiendo de qué tan bien el Mensajero haya preparado la región durante su aventura. Es considerado el final más abierto y el que más refleja las acciones del jugador."
+  },
+  {
+    "q": "¿Cuáles son los DLCs de Fallout New Vegas?",
+    "a": "Fallout New Vegas tiene cuatro DLCs principales de historia: Dead Money, Honest Hearts, Old World Blues y Lonesome Road. También tiene dos DLCs de contenido: Gun Runners' Arsenal (armas y munición adicional) y Courier's Stash (objetos de inicio)."
+  },
+  {
+    "q": "¿De qué trata el DLC Dead Money?",
+    "a": "Dead Money está ambientado en el Sierra Madre Casino, un lujoso resort de antes de la guerra que nunca llegó a abrir. El Mensajero es secuestrado y obligado a colaborar con un grupo de extraños para robar el casino. El DLC se distingue por su atmósfera de terror, un personaje fantasmal llamado Dog/God, la presencia de una sustancia tóxica llamada \"Red Cloud\" que envenenta la zona, y radios trampa que detonan los collares explosivos de los personajes. Presenta a Christine y a Dean Domino como personajes clave."
+  },
+  {
+    "q": "¿De qué trata el DLC Honest Hearts?",
+    "a": "Honest Hearts lleva al Mensajero al Parque Nacional Zion (en Utah) con una caravana comercial que es atacada. Allí se ve involucrado en un conflicto entre las tribus nativas (Dead Horses y Sorrows) y los White Legs, que trabajan para la Legión de César. El DLC presenta a Joshua Graham como personaje central y explora temas de religión, redención y violencia. El jugador debe decidir el destino de las tribus: evacuarlas o ayudarlas a luchar."
+  },
+  {
+    "q": "¿De qué trata el DLC Old World Blues?",
+    "a": "Old World Blues es el DLC más humorístico de los cuatro. El Mensajero es teletransportado al Big MT (Big Empty), un complejo de investigación científica previa a la guerra donde un grupo de científicos excéntricos trabajan en experimentos extraños. El Mensajero descubre que su cerebro, columna vertebral y corazón han sido extraídos y reemplazados. Debe recuperar sus órganos y derrotar a una IA malévola llamada ELIZA. Explora la obsesión científica y los peligros de la tecnología sin ética."
+  },
+  {
+    "q": "¿De qué trata el DLC Lonesome Road?",
+    "a": "Lonesome Road es el DLC final y narrativamente más significativo. El Mensajero es contactado por Ulysses, un ex-mensajero de la Legión que conoce el pasado del protagonista. El Mensajero debe traversar el \"Divide\", una región devastada por explosiones nucleares causadas indirectamente por una entrega que él mismo realizó en el pasado. El DLC resuelve misterios del pasado del Mensajero y culmina con un enfrentamiento con Ulysses, donde el jugador puede lanzar misiles nucleares contra el NCR o la Legión."
+  },
+  {
+    "q": "¿Qué fue la Gran Guerra en el universo de Fallout?",
+    "a": "La Gran Guerra fue un intercambio de misiles nucleares de dos horas que ocurrió el 23 de octubre de 2077 y destruyó prácticamente la civilización mundial. Fue el resultado de décadas de conflictos por recursos, especialmente petróleo y uranio. Las principales potencias involucradas fueron los Estados Unidos y China, aunque también otras naciones participaron. En el universo alternativo de Fallout, el mundo de 2077 era tecnológicamente avanzado (con robots y energía de fusión) pero culturalmente estancado en la estética de los años 50."
+  },
+  {
+    "q": "¿Qué son los Vaults en Fallout?",
+    "a": "Los Vaults son refugios subterráneos construidos por la corporación Vault-Tec antes de la Gran Guerra, supuestamente para proteger a la población civil. En realidad, la mayoría fueron diseñados como experimentos sociales no éticos encargados por el gobierno estadounidense para estudiar el comportamiento humano en condiciones extremas. Cada vault tenía un experimento diferente. En el Yermo de Mojave, el Vault 21 (en New Vegas) fue evacuado y convertido en casino; el Vault 34 fue el origen de los Boomers; y el Vault 11 fue escenario de uno de los sacrificios humanos más perturbadores del juego."
+  },
+  {
+    "q": "¿Qué son los Ghouls en el universo de Fallout?",
+    "a": "Los Ghouls son humanos que fueron expuestos a dosis masivas de radiación durante o después de la Gran Guerra. La radiación los desfiguró físicamente (piel necrótica, pérdida de cabello) pero les otorgó una vida extremadamente larga y resistencia a la radiación. Son mentalmente capaces e indistinguibles de los humanos en comportamiento, aunque frecuentemente sufren discriminación. Cuando un Ghoul pierde su sanidad mental se convierte en un \"Feral Ghoul\", una criatura agresiva y sin razonamiento. Raul Tejada y Jason Bright son ejemplos de Ghouls en New Vegas."
+  },
+  {
+    "q": "¿Qué son los Super Mutantes en Fallout?",
+    "a": "Los Super Mutantes son humanos transformados mediante exposición al Virus de Inmersión de Masterminds (FEV - Forced Evolutionary Virus). Son significativamente más grandes, fuertes y resistentes que los humanos normales, pero generalmente con menor inteligencia. En el universo occidental de Fallout (donde ocurre New Vegas), los Super Mutantes fueron creados por The Master en el primer Fallout. Son estériles e inmortales mientras no mueran por violencia o accidente. Marcus en Jacobstown es un ejemplo de Super Mutante inteligente en New Vegas."
+  },
+  {
+    "q": "¿Qué es el NCR en su historia previa a New Vegas?",
+    "a": "La República de Nueva California fue fundada alrededor de 2186 por Aradesh, un sobreviviente del Vault 15 y líder del asentamiento de Shady Sands (que aparece en el primer Fallout). Creció gradualmente absorbiendo asentamientos y territorios de California. Tuvo conflictos con los Raiders Khans y con el Master y su Ejército de Super Mutantes. En 2241 (Fallout 2), el NCR era ya una potencia regional en expansión. Para 2281 (New Vegas), se ha extendido hasta Nevada pero enfrenta problemas de sobreextensión y corrupción política."
+  },
+  {
+    "q": "¿Qué pasó en la Primera Batalla de la Presa Hoover?",
+    "a": "La Primera Batalla de la Presa Hoover ocurrió en 2277, cuatro años antes de los eventos del juego. El NCR y la Legión de César se enfrentaron por el control de la presa. El NCR, con estrategias de tierra quemada en Boulder City y la ayuda de Enclave Remnants, logró repeler a la Legión. Joshua Graham, el primer Legate de la Legión, fue responsabilizado de la derrota y ejecutado por César (aunque sobrevivió). Esta victoria del NCR es la razón por la que controlan la presa al inicio del juego."
+  },
+  {
+    "q": "¿Qué es la tecnología de pre-guerra en Fallout New Vegas?",
+    "a": "La tecnología de pre-guerra en el universo Fallout sigue una estética retrofuturista de los años 50. Las fuentes de energía principales son los reactores de fusión y las celdas de energía. Existe robótica avanzada (Securitrons, Protectrons, Mr. Handy). La medicina incluye el Stimpak (jeringa de regeneración rápida), RadAway y Rad-X. Las comunicaciones usaban el Pip-Boy, un dispositivo de muñeca que funciona como computadora portátil. Las armas van desde convencionales hasta laser, plasma y energía nuclear portátil."
+  },
+  {
+    "q": "¿Cuál es la frase más famosa de Fallout New Vegas?",
+    "a": "Una de las frases más icónicas es la del narrador Ron Perlman al inicio: \"War. War never changes.\" (La guerra. La guerra nunca cambia.), que es la frase de apertura de toda la saga Fallout. También es muy conocida la frase de César: \"I am the word and the way\" (Soy la palabra y el camino)."
+  },
+  {
+    "q": "¿Qué dice Victor al Mensajero al principio del juego?",
+    "a": "Victor, el robot Securitron con cara de vaquero, saluda al Mensajero en Goodsprings con frases coloquiales y amistosas típicas de un cowboy, ya que su programación de diálogo tiene una personalidad campechana y jovial. Hace referencias a haberlo \"salvado\" al llamar al Doctor Mitchell tras el entierro."
+  },
+  {
+    "q": "¿Qué filosofía defiende César en sus diálogos?",
+    "a": "César defiende que el NCR representa la decadencia del mundo antiguo, con sus democracias corruptas, burocracia y materialismo. Argumenta que solo una sociedad fuerte y disciplinada como la Legión puede forjar una nueva civilización. Cita a Hegelian dialéctica para justificar que la Legión (tesis) destruirá al NCR (antítesis) para crear una nueva síntesis. Sus diálogos son filosóficamente elaborados, lo que lo distingue como villano intelectual además de brutal."
+  },
+  {
+    "q": "¿Qué dice Ulysses sobre el Mensajero en Lonesome Road?",
+    "a": "Ulysses describe al Mensajero como alguien que \"lleva la historia en sus espaldas sin saberlo\", refiriéndose a que sus acciones pasadas como mensajero desencadenaron la destrucción del Divide. Lo ve como un símbolo de las consecuencias no intencionadas de las acciones humanas. Sus diálogos son profundamente poéticos y filosóficos, llenos de referencias a banderas, símbolos nacionales y el peso del pasado."
+  },
+  {
+    "q": "¿Cuál es la mejor facción para elegir en Fallout New Vegas?",
+    "a": "No existe una respuesta objetiva, ya que cada facción tiene pros y contras morales y narrativos. La ruta del NCR ofrece estabilidad democrática con sus defectos. La Legión ofrece orden autoritario brutal. Mr. House ofrece prosperidad tecnocrática bajo control de uno solo. La ruta independiente ofrece libertad con incertidumbre. La elección depende de los valores del jugador y cómo interpreta el futuro del Yermo de Mojave."
+  },
+  {
+    "q": "¿Puede el jugador matar a Caesar sin consecuencias en su campaña?",
+    "a": "Sí, el jugador puede infiltrarse en el Campamento Fortification Hill y matar a César. Si se hace durante la campaña de la Legión, la facción continúa funcionando bajo Lanius. Si se hace en otras rutas, tiene poco impacto en la trama principal ya que Lanius lidera el ataque final de todas formas. César también puede morir durante una cirugía cerebral fallida en una misión secundaria."
+  },
+  {
+    "q": "¿Cuál es el arma más poderosa de Fallout New Vegas?",
+    "a": "Depende del tipo. Entre las armas convencionales, el Medicine Stick (rifle de bolt-action único) y el Gobi Campaign Scout Rifle son de los más potentes. En energía, el Pew Pew (pistola láser única) es devastadora. En explosivos, el Fat Man lanza mini-nukes. El Paciencia (unique sniper rifle del DLC Honest Hearts) y el Blade of the East (del DLC Lonesome Road) también están entre las mejores. La \"mejor\" arma varía según el build del personaje."
+  },
+  {
+    "q": "¿Qué pasa si se tiene muy baja Inteligencia en Fallout New Vegas?",
+    "a": "A diferencia de Fallout 1 y 2, donde tener INT 1-3 generaba diálogos específicos y únicos de personaje \"tonto\", en New Vegas tener INT muy baja (1-2) limita las opciones de diálogo y otorga menos puntos de habilidad al subir de nivel, pero no activa tantas conversaciones especiales como en los juegos clásicos. Sin embargo, algunos NPCs hacen comentarios sobre la aparente baja inteligencia del Mensajero."
+  },
+  {
+    "q": "¿Cómo se puede entrar al Strip sin pagar los 2000 caps?",
+    "a": "Existen varias alternativas a pagar los 2,000 caps. Con Speech 80 se puede convencer al guardia. Con una ID del NCR se puede entrar si se tiene buena reputación con el NCR. Completando la misión de los Kings en Freeside se puede obtener acceso más fácil. También existe la posibilidad de hackear terminales y manipular el sistema de verificación de identidad."
+  },
+  {
+    "q": "¿Cuáles son las categorías de armas en Fallout New Vegas?",
+    "a": "Las armas en Fallout New Vegas se dividen en seis categorías principales, cada una vinculada a una habilidad distinta. Guns (armas de fuego convencionales) cubre pistolas, rifles, escopetas y ametralladoras. Energy Weapons (armas de energía) incluye pistolas láser, rifles de plasma y armas de rayo. Melee Weapons (armas cuerpo a cuerpo) abarca cuchillos, hachas, espadas y mazas. Unarmed (combate sin armas) incluye guanteletes, puños de poder y técnicas de pelea. Explosives (explosivos) comprende granadas, minas, lanzacohetes y el Fat Man. Throwing (lanzamiento) cubre proyectiles como cuchillos arrojadizos y granadas de mano. Además, algunas armas especiales de los DLCs no encajan en categorías estándar."
+  },
+  {
+    "q": "¿Qué son las armas únicas en Fallout New Vegas?",
+    "a": "Las armas únicas son versiones especiales de armas estándar con nombres propios, estadísticas mejoradas y apariencias modificadas. Generalmente tienen mayor daño, críticos más frecuentes, menor desgaste u otras ventajas sobre sus equivalentes comunes. Se obtienen como recompensa de misiones, en el inventario de personajes específicos, en cofres ocultos o como drops únicos de enemigos. Ejemplos icónicos incluyen el Lucky (revólver .357), el Ratslayer (rifle de cerrojo), el Riot Shotgun modificado llamado \"Dinner Bell\" y el cuchillo de combate \"Chance's Knife\"."
+  },
+  {
+    "q": "¿Cómo funciona la degradación de armas en Fallout New Vegas?",
+    "a": "Todas las armas tienen una condición (condition) que va del 0% al 100%. Mientras más se usa un arma, más se desgasta y pierde precisión y daño. Las armas pueden repararse usando otras armas del mismo tipo como repuestos, o llevándolas a un vendedor/reparador. La habilidad de Repair del personaje determina hasta qué condición puede reparar un arma. Con la habilidad Gun Runners' Arsenal DLC, algunas armas pueden recibir modificaciones permanentes como supresores, cargadores extendidos o miras telescópicas."
+  },
+  {
+    "q": "¿Qué son las modificaciones de armas en Fallout New Vegas?",
+    "a": "Las modificaciones de armas son accesorios que se aplican de forma permanente a armas específicas para mejorar sus estadísticas. Se compran en tiendas de armas o se encuentran en el mundo. Los tipos comunes incluyen: supresores de sonido (reducen ruido para el sigilo), cargadores extendidos (más munición por cargador), miras telescópicas o de punto rojo (mayor precisión a distancia), culatas pesadas (reducen retroceso) y reparaciones de los tubos de armas de energía (aumentan daño). No todas las armas tienen modificaciones disponibles; las únicas generalmente no las admiten."
+  },
+  {
+    "q": "¿Qué es el 9mm Pistol y cuál es su versión única?",
+    "a": "La 9mm Pistol es una pistola semiautomática básica, una de las primeras armas que el jugador puede obtener en Goodsprings. Usa munición 9mm, es ligera y fácil de reparar. Su versión única se llama \"Maria\", el arma personal de Benny, que tiene mayor daño y una apariencia dorada con grabados ornamentales. Maria puede obtenerse matando a Benny o en algunos casos robándosela."
+  },
+  {
+    "q": "¿Qué es el Hunting Rifle y cuáles son sus variantes?",
+    "a": "El Hunting Rifle es un rifle de cerrojo (bolt-action) semiestándar que usa munición .308. Es preciso a larga distancia pero de disparo lento. Es una de las armas más comunes en el yermo. Su versión única es el \"Paciencia\", obtenible en el DLC Honest Hearts, que tiene mayor daño y tasa crítica. También existe la versión mejorada del juego base llamada \"Gobi Campaign Scout Rifle\", encontrada en el Gobi Campaign Scout Sniper Post mediante ganzúa difícil, que es considerada uno de los mejores rifles del juego base."
+  },
+  {
+    "q": "¿Qué es el Anti-Materiel Rifle?",
+    "a": "El Anti-Materiel Rifle (AMR) es el rifle de francotirador más potente del juego base. Usa munición .50 MG de gran calibre, capaz de penetrar armaduras pesadas. Es devastador contra enemigos acorazados y vehículos. Su daño por disparo es el más alto entre los rifles. La desventaja es su peso considerable, el costo elevado de la munición .50 MG y el retroceso extremo. Con munición AP (.50 MG Armor Piercing) su penetración de armadura es aún mayor."
+  },
+  {
+    "q": "¿Qué es el Cowboy Repeater y su versión única?",
+    "a": "El Cowboy Repeater es un rifle de acción de palanca que usa munición .357 Magnum. Es una de las armas más emblemáticas del juego por su estética de western. Tiene buena cadencia de fuego para ser un rifle y es efectivo a media distancia. Su versión única es el \"Medicine Stick\", que tiene mayor daño y precisión, encontrada en el inventario de un cazador en las afueras. Es una de las armas favoritas de los jugadores que hacen builds de vaquero."
+  },
+  {
+    "q": "¿Qué es el Brush Gun?",
+    "a": "El Brush Gun es un rifle de acción de palanca de alto calibre que usa munición .45-70 Gov't. Es más potente que el Cowboy Repeater pero más lento. Su versión única es el \"Medicine Stick\" (en algunas versiones del juego se asocia con este rifle). Es especialmente efectivo con la habilidad Cowboy perk, que aumenta el daño de armas de tipo western."
+  },
+  {
+    "q": "¿Qué es el Survivalist's Rifle del DLC Honest Hearts?",
+    "a": "El Survivalist's Rifle es un arma única exclusiva del DLC Honest Hearts, encontrada al final de una serie de notas y diarios del personaje conocido como \"The Survivalist\" (Randall Clark). Es un rifle de asalto semiautomático que usa munición .45-70 Gov't. Tiene excelentes estadísticas de daño y precisión. Obtenerla implica seguir la historia del Survivalist leyendo sus notas dispersas por Zion, lo que la convierte en una de las experiencias narrativas más emotivas del juego."
+  },
+  {
+    "q": "¿Qué es el Riot Shotgun y su versión única?",
+    "a": "El Riot Shotgun es una escopeta semiautomática de gran capacidad que usa munición 12 gauge. Es una de las mejores escopetas por su alta cadencia de disparo para el tipo. Su versión única es el \"Dinner Bell\", una escopeta de doble cañón que aunque es de acción más lenta, causa daño masivo en cada disparo. El Dinner Bell se obtiene completando la misión de los Boomers en Nellis Air Force Base."
+  },
+  {
+    "q": "¿Qué es el This Machine?",
+    "a": "\"This Machine\" es un rifle de batalla semiautomático único que usa munición .308. Es una referencia a la frase del guitarrista Woody Guthrie \"This machine kills fascists\". Se obtiene completando la misión \"Dealing with Contreras\" en Camp McCarran. Tiene estadísticas excelentes y una apariencia robusta. Es uno de los mejores rifles para combate a media y larga distancia."
+  },
+  {
+    "q": "¿Qué es el Varmint Rifle?",
+    "a": "El Varmint Rifle es un rifle de cerrojo ligero que usa munición 5.56mm. Es ideal para los primeros niveles del juego por su abundancia y bajo costo de munición. Tiene bajas estadísticas base pero puede mejorarse con modificaciones: mira nocturna, supresor y cargador extendido. Con el perk \"Grunt\", su daño se incrementa notablemente."
+  },
+  {
+    "q": "¿Qué es el Laser Pistol y su versión única?",
+    "a": "El Laser Pistol es la pistola de energía más básica del juego, que dispara rayos láser usando microfusión. Es ligera y tiene buena precisión. Su versión única es el \"Pew Pew\", un arma estéticamente ridícula pero extremadamente poderosa, que dispara dos rayos de alta potencia simultáneamente por cada disparo. El Pew Pew se obtiene completando la misión \"The Star, the Moon, and the Sky\" en el Yermo de Mojave, recolectando las estrellitas de los Coffee Shops."
+  },
+  {
+    "q": "¿Qué es el Plasma Rifle?",
+    "a": "El Plasma Rifle es un rifle de energía de alta potencia que dispara bolas de plasma superenergético. Causa daño masivo y tiene la posibilidad de desintegrar completamente a los enemigos si los mata con un crítico, dejando un charco de goo verde. Usa celdas de plasma como munición. Es una de las armas de energía más versátiles por su equilibrio entre daño, cadencia y precisión. Su versión única es el \"Q-35 Matter Modulator\", encontrado en el REPCONN HQ mediante ganzúa."
+  },
+  {
+    "q": "¿Qué es el Gauss Rifle?",
+    "a": "El Gauss Rifle (oficialmente YCS/186) es una de las armas de energía más poderosas del juego base. Usa munición de microfusión y dispara un proyectil acelerado magnéticamente de alta velocidad. Tiene daño devastador en un solo disparo y es excelente para francotirador de energía. Su versión única \"YCS/186\" se encuentra en un campamento de Mercenaries al noreste del mapa. Requiere alto nivel de Energy Weapons para usarlo eficientemente."
+  },
+  {
+    "q": "¿Qué es el Incinerator y el Heavy Incinerator?",
+    "a": "El Incinerator es un lanzallamas portátil que usa combustible de llama (Flamer Fuel). Causa daño de fuego continuo a enemigos en cono. El Heavy Incinerator es la versión mejorada con mayor daño y área de efecto. Son efectivos contra enemigos con resistencia al daño convencional pero no contra robots. Tienen rangos cortos de combate. Su versión única en el DLC Old World Blues es el \"Cleansing Flame\", que tiene mayor potencia."
+  },
+  {
+    "q": "¿Qué es el Tesla Cannon?",
+    "a": "El Tesla Cannon es un arma de energía de tipo heavy que dispara un rayo eléctrico de alta tensión. Es efectivo contra robots y mechas debido al daño eléctrico. Se obtiene durante la misión de los Enclave Remnants. Existe una versión mejorada llamada \"Tesla-Beaton Prototype\" que puede encontrarse en el campo de batalla de Boulder City con mayor daño."
+  },
+  {
+    "q": "¿Qué es el Laser RCW?",
+    "a": "El Laser RCW (Rifle, Combat Weapon) es un SMG láser automático que dispara ráfagas de rayos láser. Tiene alta cadencia de disparo pero consume munición de microfusión rápidamente. Es excelente para combate cercano con un build de Energy Weapons. Su versión única es el \"Sprtel-Wood 9700\", obtenible del DLC Gun Runners' Arsenal."
+  },
+  {
+    "q": "¿Cuáles son las mejores armas cuerpo a cuerpo en Fallout New Vegas?",
+    "a": "Entre las mejores armas cuerpo a cuerpo destacan: el Chainsaw (motosierra) por su daño por segundo continuo; el Thermic Lance por su altísimo daño base; el Bumper Sword (del DLC Honest Hearts) por su alcance y daño; el Blade of the East (del DLC Lonesome Road) como la espada más poderosa del juego; el Knock Knock (hacha de bombero única) por su daño contra carne; y el Fire Axe estándar como opción accesible temprana."
+  },
+  {
+    "q": "¿Qué es el Ripper?",
+    "a": "El Ripper es una motosierra de mano que causa daño de corte continuo mientras se mantiene presionado el botón de ataque. Es devastador contra enemigos sin armadura pero menos efectivo contra robots o armaduras pesadas. Su versión única, el \"Ripper\" modificado del DLC Gun Runners' Arsenal, tiene mayor daño."
+  },
+  {
+    "q": "¿Qué es el Ballistic Fist?",
+    "a": "El Ballistic Fist es un guantelete Unarmed que dispara una carga explosiva al impactar al enemigo, causando daño físico y de explosión simultáneamente. Es una de las armas Unarmed más poderosas del juego y es especialmente efectiva con builds especializados en combate sin armas. Requiere la habilidad Unarmed en nivel alto para usarlo con eficiencia."
+  },
+  {
+    "q": "¿Qué es el Saturnite Fist del DLC Old World Blues?",
+    "a": "El Saturnite Fist es un guantelete fabricado con el material experimental \"Saturnite\" encontrado en el Big MT del DLC Old World Blues. Tiene alta durabilidad y daño. Su versión mejorada, \"Saturnite Fist Super-Heated\", se puede crear calentándolo en un horno específico del DLC, duplicando su daño con el añadido de daño de fuego. Es considerado uno de los mejores guanteletes del juego."
+  },
+  {
+    "q": "¿Qué es el Mantis Gauntlet?",
+    "a": "El Mantis Gauntlet es un arma Unarmed única fabricada con las patas delanteras afiladas de un Giant Mantis. Tiene un diseño visual llamativo y estadísticas decentes. Representa el estilo de crafting de armas únicas a partir de materiales del yermo que caracteriza a Fallout New Vegas."
+  },
+  {
+    "q": "¿Cuáles son los mejores perks para un build Unarmed?",
+    "a": "Para builds de combate sin armas destacan: Paralyzing Palm (parálisis al golpe crítico), Slayer (aumenta velocidad de ataque cuerpo a cuerpo), Piercing Strike (ignora el DT del enemigo), Ninja (aumenta daño crítico), y Khan Trick (movimiento especial aprendido de los Great Khans). Combinados con alta Strength y Agility, estos perks hacen del combate Unarmed extremadamente letal."
+  },
+  {
+    "q": "¿Qué es el Fat Man en Fallout New Vegas?",
+    "a": "El Fat Man es un lanzador de mini-nukes portátil, el arma convencional más destructiva del juego. Dispara una pequeña cabeza nuclear que al impactar causa una explosión masiva con daño de radiación y físico en un área enorme. Es efectivo contra cualquier tipo de enemigo pero el radio de explosión puede matar al jugador si se usa a corta distancia. La munición (mini-nukes) es extremadamente escasa y costosa. Su versión única \"Esther\" está disponible en el DLC Gun Runners' Arsenal."
+  },
+  {
+    "q": "¿Qué es el Grenade Rifle y el Grenade Machinegun?",
+    "a": "El Grenade Rifle es un lanzagranadas de un solo disparo que puede lanzar granadas estándar, granada de plasma, de incendio o incluso granadas núcleo a distancias considerables. El Grenade Machinegun es su versión automática, disparando ráfagas de granadas a alta velocidad. Ambos pertenecen a la categoría de Explosives y son ideales para combate contra grupos de enemigos o posiciones atrincheradas."
+  },
+  {
+    "q": "¿Qué tipos de granadas existen en Fallout New Vegas?",
+    "a": "Existen múltiples tipos de granadas: Frag Grenade (explosión de fragmentación estándar), Plasma Grenade (daño de plasma y fuego), Incendiary Grenade (daño de fuego en área), Pulse Grenade (daño EMP, ideal contra robots), Holy Frag Grenade (daño masivo, objeto de broma/referencia), Throwing Knife (cuchillo arrojadizo, silencioso), Tomahawk (del DLC Honest Hearts, silencioso), y Dynamite (explosivo improvisado del Viejo Oeste)."
+  },
+  {
+    "q": "¿Qué es el Shoulder Mounted Machine Gun (SMMG)?",
+    "a": "El SMMG es una ametralladora de calibre pesado que se monta en el hombro. Tiene alta cadencia de fuego y usa munición 5mm. Es efectivo contra grupos de enemigos ligeros pero su precisión disminuye rápidamente por el retroceso. Junto con el Minigun, representa las opciones de supresión de fuego del juego."
+  },
+  {
+    "q": "¿Qué es el Mercy (Grenade Machinegun único)?",
+    "a": "Mercy es la versión única del Grenade Machinegun, lanzando granadas 40mm a cadencia automática. Se encuentra en el Dead Wind Cavern, custodiado por un Deathclaw Mother, lo que lo convierte en uno de los objetos más difíciles de obtener del juego base. Su obtención es considerada un rito de paso por los jugadores experimentados."
+  },
+  {
+    "q": "¿Cuáles son las armas más icónicas del DLC Dead Money?",
+    "a": "Dead Money introduce varias armas únicas: el Holorifle, un rifle de energía que dispara proyectiles holográficos y puede ser mejorado múltiples veces hasta ser devastador; el Bear Trap Fist, un guantelete de trampa para osos; la Police Pistol, un revólver confiable; y las granadas de gas Cloud que aprovechan el ambiente del Sierra Madre. El Holorifle es considerado una de las mejores armas de energía de todo el juego si se mejora completamente."
+  },
+  {
+    "q": "¿Cuáles son las armas más icónicas del DLC Old World Blues?",
+    "a": "Old World Blues ofrece algunas de las armas más exóticas del juego: el K9000 Cyberdog Gun (un arma viviente, literalmente la cabeza de un perro cyborg como arma); el Elijah's Advanced LAER (rifle de energía de altísimo daño pero que desgasta rápidamente); el Sonic Emitter en sus variantes; el Proton Axe (hacha de plasma); y el Science Rifle. El K9000 es famoso por ser uno de los objetos más absurdos y entrañables del juego."
+  },
+  {
+    "q": "¿Qué es el Lancer del DLC Lonesome Road?",
+    "a": "El DLC Lonesome Road introduce el Marksman Carbine mejorado \"All-American\", un rifle de asalto único con estadísticas excelentes. También presenta el Red Glare, un lanzacohetes de ráfaga que puede disparar múltiples cohetes seguidos, y el Divide's Lonesome Road Gear. Ulysses usa un bastón único como arma cuerpo a cuerpo con propiedades especiales. El Courier's Stash DLC también agrega el Mercenary's Grenade Rifle al inicio."
+  },
+  {
+    "q": "¿Qué es el Gehenna del DLC Gun Runners' Arsenal?",
+    "a": "Gehenna es un Ripper único (motosierra de mano) del DLC Gun Runners' Arsenal que añade daño de fuego a sus ataques normales. Su nombre hace referencia al infierno en la tradición hebrea. Es uno de los objetos más buscados de ese DLC por su combinación de daño físico continuo más daño de fuego."
+  },
+  {
+    "q": "¿Qué es el Mojave Outpost?",
+    "a": "El Mojave Outpost es el puesto fronterizo del NCR ubicado en el extremo suroeste del mapa, donde la I-15 entra al Yermo de Mojave desde California. Es el primer asentamiento importante del NCR que muchos viajeros encuentran al llegar. Tiene una estatua monumental de dos soldados estrechando manos, símbolo del tratado entre el NCR y los locales. Alberga un bar, un oficial de reclutamiento del NCR y varias misiones menores. Sirve como referencia geográfica del límite del territorio NCR en el Mojave."
+  },
+  {
+    "q": "¿Qué es Primm?",
+    "a": "Primm es una ciudad-casino pequeña a lo largo de la I-15, tomada por los Powder Gangers (prisioneros escapados de la Correctional Facility del NCR en Nevada). El Mensajero puede ayudar a liberar Primm de los Powder Gangers y luego debe decidir quién la governa: el NCR (solicitando tropas), un robot Sheriff llamado Primm Slim (reprogramado), o convenciendo al forajido convicto Johnson Nash de tomar el rol. Es uno de los primeros asentamientos que el jugador visita tras Goodsprings."
+  },
+  {
+    "q": "¿Qué es la REPCONN Test Site?",
+    "a": "La REPCONN Test Site (Base de Cohetes REPCONN) es una instalación de pruebas de cohetes previa a la guerra ubicada cerca de Novac. Es el escenario de la misión \"Come Fly With Me\", donde el Mensajero descubre que Ghouls que siguen al predicador Jason Bright intentan lanzarse al espacio en cohetes para buscar un \"Promised Land\" libre de humanos. Las instalaciones están infestadas de Nightkin con alucinaciones. La misión puede resolverse de varias formas según la moral del jugador."
+  },
+  {
+    "q": "¿Qué es Nelson?",
+    "a": "Nelson es un campamento del NCR que fue capturado por la Legión de César. Los soldados NCR capturados fueron crucificados en el perímetro como mensaje de terror. La misión \"Back in Your Own Backyard\" lleva al Mensajero a Nelson, donde puede rescatar a los prisioneros del NCR y eliminar al líder legionario Dead Sea. Es uno de los lugares más oscuros del juego base, mostrando la brutalidad de la Legión."
+  },
+  {
+    "q": "¿Qué es el El Dorado Substation?",
+    "a": "El El Dorado Substation es una instalación eléctrica del NCR que controla parte del suministro energético proveniente de la Presa Hoover. Es objetivo de sabotaje por parte de la Legión y puede verse envuelta en misiones de la facción NCR relacionadas con mantener la infraestructura energética operativa. Representa la importancia estratégica de la red eléctrica en el conflicto del juego."
+  },
+  {
+    "q": "¿Qué es el Searchlight Airport?",
+    "a": "Camp Searchlight es una base del NCR al sur del mapa que fue contaminada con radiación masiva cuando la Legión detonó contenedores de desechos radiactivos en sus alcantarillas. El campamento está ahora infestado de Ghouls radiactivos (incluyendo los peligrosos Glowing Ones). La misión \"Wheel of Fortune\" lleva al jugador aquí para buscar sobrevivientes. Es una de las zonas más radiactivas del mapa principal y requiere preparación con Rad-X y RadAway."
+  },
+  {
+    "q": "¿Qué es Nipton?",
+    "a": "Nipton es una pequeña ciudad que el jugador encuentra en ruinas con sus habitantes asesinados, crucificados o esclavizados por la Legión de César. El oficial legionario Vulpes Inculta ejecutó la masacre como castigo por la colaboración de Nipton con ambos bandos del conflicto. Al llegar, el jugador puede presenciar la escena con supervivientes mutilados explicando lo ocurrido. Nipton es el primer lugar donde el juego confronta directamente al jugador con la brutalidad de la Legión y sirve como punto dramático de introducción a ese conflicto."
+  },
+  {
+    "q": "¿Qué es el Cottonwood Cove?",
+    "a": "Cottonwood Cove es el punto de cruce de la Legión de César sobre el Río Colorado, en el extremo sureste del mapa. Es el campamento principal de la Legión en el lado oeste del río y funciona como puerta de entrada al territorio legionario. Desde aquí se puede navegar al Fortification Hill (campamento de César). Tiene esclavos, soldados legionarios y es uno de los objetivos del NCR para cortar el suministro de la Legión."
+  },
+  {
+    "q": "¿Qué es el Vault 11?",
+    "a": "El Vault 11 es uno de los Vaults más perturbadores del juego, ubicado al sur del mapa. Su experimento consistía en que los habitantes debían sacrificar a uno de sus miembros cada año o todos serían exterminados. La historia completa se descubre a través de holotapes y terminales, revelando cómo la sociedad del vault degeneró en manipulación política, violencia y finalmente un motín suicida. Al final se descubre una terrible ironía: la amenaza de exterminio era falsa. Completar su exploración otorga el perk \"Lesson Learned\"."
+  },
+  {
+    "q": "¿Qué es el Vault 22?",
+    "a": "El Vault 22 es un vault experimental de investigación botánica, ubicado al oeste del mapa entre montañas. Sus habitantes experimentaron con plantas modificadas genéticamente para producir alimentos en el post-guerra. El experimento salió terriblemente mal: los esporos de las plantas mutadas infectaron a los residentes, convirtiéndolos en zombies controlados por hongos. El vault está infestado de plantas carnívoras, Spore Plants y Spore Carriers. Contiene datos importantes para la misión de los Followers of the Apocalypse."
+  },
+  {
+    "q": "¿Qué es el Hidden Valley?",
+    "a": "Hidden Valley es el bunker subterráneo secreto del Brotherhood of Steel en el Yermo de Mojave, oculto en el valle de Hidden Valley al suroeste del mapa. Desde aquí opera el capítulo Mojave de la Brotherhood bajo el mando del Elder McNamara. El bunker está en cuarentena autoimpuesta tras años de conflicto con el NCR que casi los exterminó. La misión \"Still in the Dark\" lleva al Mensajero al bunker y puede resultar en una alianza o conflicto con la Brotherhood."
+  },
+  {
+    "q": "¿Qué es el Black Mountain?",
+    "a": "Black Mountain es una estación de transmisión de radio en lo alto de una montaña al este de New Vegas, controlada por Super Mutantes bajo el mando del mutante demente Tabitha, quien dirige una emisora de radio. Alberga al compañero Raul Tejada como prisionero. Completar la misión de Black Mountain desbloquea a Raul como compañero. También hay un robot llamado Rhonda que juega un papel en la resolución de la misión."
+  },
+  {
+    "q": "¿Qué es el Legate's Camp (Fortification Hill)?",
+    "a": "Fortification Hill es el campamento principal de la Legión de César, ubicado al otro lado del Río Colorado frente a la Presa Hoover. Alberga al propio César en su tienda y al Legate Lanius como comandante. Es la base de operaciones final de la Legión para la Segunda Batalla de la Presa Hoover. El Mensajero puede infiltrarse aquí para hablar con César, completar misiones de la Legión o intentar asesinarlo. Es una de las zonas más peligrosas del mapa para personajes de baja reputación con la Legión."
+  },
+  {
+    "q": "¿Qué es el Lucky 38 Casino?",
+    "a": "El Lucky 38 es el casino más prominente del New Vegas Strip, un rascacielos en forma de cohete que domina el horizonte de la ciudad. Es la residencia y fortaleza personal de Mr. House, quien ha vivido recluido en él durante más de 200 años conectado a su sistema de soporte vital. El Penthouse alberga la terminal de control principal de Mr. House y su cámara criogénica. El casino nunca abrió al público antes de la guerra y sigue cerrado para visitantes, siendo el símbolo del poder misterioso de Mr. House sobre New Vegas."
+  },
+  {
+    "q": "¿Qué es el Ultra-Luxe Casino?",
+    "a": "El Ultra-Luxe es el casino más elegante y exclusivo del Strip, controlado por la White Glove Society, una familia de aristócratas que en el pasado fueron caníbales. Mr. House les impuso abandonar el canibalismo como condición para operar en el Strip. La misión \"Beyond the Beef\" descubre que algunos miembros de la sociedad quieren retomar sus viejas costumbres. El casino tiene una estética de lujo extremo, con una alta cocina que sirve carne de origen misterioso."
+  },
+  {
+    "q": "¿Qué es el Gomorrah Casino?",
+    "a": "El Gomorrah es el casino más oscuro y licencioso del Strip, controlado por los Omertas. Ofrece servicios de prostitución, drogas y espectáculos adultos. Los Omertas tienen un acuerdo secreto con la Legión de César para atacar New Vegas desde adentro en el momento del ataque principal de la Legión. La misión \"How Little We Know\" lleva al Mensajero a investigar y frustrar este complot. El casino está modelado en la ciudad bíblica Gomorra, cuyo nombre evoca el pecado y la decadencia."
+  },
+  {
+    "q": "¿Qué es Freeside y sus lugares de interés?",
+    "a": "Freeside es el barrio pobre externo al Strip de New Vegas. Sus lugares de interés incluyen: el Old Mormon Fort, base de los Followers of the Apocalypse con atención médica gratuita; el King's School of Impersonation, sede de los Kings; el Silver Rush, tienda de armas de energía gestionada por la familia Van Graff; la estatua de un ojo (símbolo de Freeside); y múltiples calles peligrosas con Junkies, Thugs y refugiados. Es el barrio donde se pueden iniciar las misiones de los Kings y los Followers."
+  },
+  {
+    "q": "¿Qué es el Aerojet del Lake Mead (Lake Mead Cave)?",
+    "a": "El Lago Mead es el embalse artificial formado por la Presa Hoover, ubicado al este de New Vegas. Sus profundidades contienen el B-29 hundido que los Boomers quieren recuperar. También alberga las Lake Mead Caves, cuevas inundadas parcialmente habitadas por Lakelurks (crustáceos mutantes gigantes y muy peligrosos). La misión de los Boomers para recuperar el bombardero se desarrolla en estas aguas."
+  },
+  {
+    "q": "¿Qué es Westside?",
+    "a": "Westside es un barrio residencial al oeste del Strip de New Vegas, habitado por una comunidad local que cultiva sus propios alimentos en jardines hidropónicos. Tiene su propia milicia local y enfrenta tensiones con el NCR por el agua. La misión \"The White Wash\" investiga el robo de agua en la zona. Es uno de los pocos asentamientos donde los civiles locales han logrado cierta autonomía e independencia del NCR y de Mr. House."
+  },
+  {
+    "q": "¿Qué es el HELIOS One?",
+    "a": "HELIOS One es una planta de energía solar previa a la guerra, ubicada al sur del mapa y actualmente bajo control del NCR. Tiene un sistema de armas orbital secreto llamado ARCHIMEDES II (o ARCHIMEDES I en su versión antiradiación), capaz de disparar un rayo solar contra objetivos en el suelo. La misión \"That Lucky Old Sun\" lleva al Mensajero a reparar y redirigir la energía de la planta, con la opción de activar el sistema de armas ARCHIMEDES II para uso del jugador (con recarga de 24 horas) o distribuir energía equitativamente a toda la región."
+  },
+  {
+    "q": "¿Qué es Jacobstown y qué lo hace especial?",
+    "a": "Jacobstown es un refugio montañoso para Super Mutantes y Nightkin fundado por Marcus al noroeste del mapa. Es especial porque representa uno de los pocos asentamientos del juego donde los Super Mutantes intentan vivir en paz con un propósito constructivo. El Dr. Henry realiza investigaciones médicas allí. La misión \"Unfriendly Persuasion\" y \"Guess Who I Saw Today\" implican ayudar a la comunidad con sus problemas con los Nightkin esquizofrénicos. Es uno de los lugares que más humaniza a los Super Mutantes en el universo Fallout."
+  },
+  {
+    "q": "¿Qué son las locations de cazadores y exploradores en el yermo?",
+    "a": "El Yermo de Mojave tiene numerosas ubicaciones menores de exploración como: el Abandoned BoS Bunker (bunker abandonado de la Brotherhood con loot valioso), los diversos campamentos de Fiends y Raiders, los restos de caravanas atacadas con historias implícitas, el Mojave Drive-in (teatro de coches con portal al Big MT del DLC Old World Blues), cuevas habitadas por Cazadores, Deathclaws y Nightstalkers, y múltiples vaults con sus propias historias. La exploración libre es una de las mayores recompensas del juego."
+  }
+]
